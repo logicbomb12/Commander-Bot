@@ -12,8 +12,8 @@ sys.path.append('C:\\Users\\Soham Dhar\\AppData\\Local\\Programs\\Python\\Python
 
 client = commands.Bot(command_prefix='.')
 
-reddit = praw.Reddit(client_id="5e98VX0uvROrbg",
-                     client_secret="W34hNHVuj_oTZiGG7uAvEaCenRvMOg", user_agent="commander")
+reddit = praw.Reddit(client_id="x",
+                     client_secret="x", user_agent="x")
 
 
 @client.event
