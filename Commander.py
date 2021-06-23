@@ -155,4 +155,4 @@ async def hack(ctx):
         hack = secrets.token_hex(1000)
         await ctx.send(hack)
 
-client.run('Nzc2NjczMzk0ODc1ODI2MjA3.X64Tdw.0NVXlYmkeazjRiqhke7atbJTMYw')
+client.run('x')
