@@ -8,7 +8,7 @@ import secrets
 from os import path
 from importlib.resources import path
 import sys
-sys.path.append('C:\\Users\\Soham Dhar\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\praw')
+sys.path.append('insert path')
 
 client = commands.Bot(command_prefix='.')
 
